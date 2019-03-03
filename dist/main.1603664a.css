@@ -1,0 +1,38 @@
+:root{
+  --bg-color: #d6d2d9;
+}
+
+* {
+  font-family: "Merriweather", serif;
+}
+html,body {
+  height: 100vh;
+}
+
+body {
+  background-color: var(--bg-color)
+}
+
+
+section {
+  height: 100%;
+}
+
+#cal-header button {
+  appearance: none;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+#cal-body {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.today {
+  background-color: #fdc355;
+  color: white;
+  font-weight: bold;
+  text-shadow: 0 0 1px white;
+}
