@@ -7,4 +7,4 @@ parcelRequire=function(e,r,n,t){var i="function"==typeof parcelRequire&&parcelRe
 },{"./calendar":"xLvk","./calendar-view":"4c9o"}],"cW+T":[function(require,module,exports) {
 "use strict";var r=require("./controls"),t=new r.Controls;t.init();
 },{"./controls":"UC3y"}]},{},["cW+T"], null)
-//# sourceMappingURL=/app.59096239.map
+//# sourceMappingURL=https://shlokd.github.io/calendar-widget/app.59096239.map
